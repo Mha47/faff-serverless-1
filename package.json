@@ -1,0 +1,19 @@
+{
+  "name": "shaserverless-s3-rev3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mha47",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1500.0",
+    "serverless": "^3.37.0",
+    "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.2.0"
+  }
+}
